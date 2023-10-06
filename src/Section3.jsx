@@ -2,7 +2,7 @@ import React from "react";
 
 const Section3 = () => {
   return (
-    <div className="flex flex-col justify-between items-center w-[100%] md:w-[50%] gap-6 mt-6">
+    <div className="flex md:flex-row flex-col justify-between items-center w-[100%] md:w-[50%] gap-6 mt-6">
       <div className="w-[300px] h-full flex flex-col rounded p-4 bg-white">
         <div className="flex flex-col">
           <img
