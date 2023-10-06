@@ -2,7 +2,7 @@ import React from "react";
 
 export const Header = () => {
   return (
-    <div className="flex flex-col justify-center items-center gap-2 bg-red-800 p-4">
+    <div className="flex flex-col w-full justify-center items-center gap-2 bg-red-800 p-4">
       <div className="flex w-[50%]  items-baseline align-baseline justify-between">
         <h1 className="font-bold text-3xl text-white">Entertainment Live</h1>
 
