@@ -2,6 +2,7 @@ import React from "react";
 import { Header } from "./Header";
 import HeaderBottom from "./HeaderBottom";
 import Section1 from "./Section1";
+import Section2 from "./Section2";
 
 const Home = () => {
   return (
@@ -9,6 +10,7 @@ const Home = () => {
       <Header />
       <HeaderBottom />
       <Section1 />
+      <Section2 />
     </div>
   );
 };

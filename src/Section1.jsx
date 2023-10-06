@@ -2,7 +2,7 @@ import React from "react";
 
 const Section1 = () => {
   return (
-    <div className="md:w-[100%] w-full h-[300px] gap-6 flex flex-col md:flex-row bg-white p-5 mt-5 rounded-lg">
+    <div className="md:w-[50%] w-[97%] gap-6 flex flex-col md:flex-row bg-white p-5 mt-5 rounded-lg">
       <div className="md:w-[60%] w-full relative bg-black h-full">
         <img
           src="https://cdn.pixabay.com/photo/2018/05/18/15/30/web-design-3411373_1280.jpg"
